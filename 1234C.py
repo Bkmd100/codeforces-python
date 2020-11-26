@@ -19,7 +19,7 @@ def super():
 	j=0
 	j1=0
 	def next():
-1452
+
 		global j,j1
 		j1=j
 		if j==0:
